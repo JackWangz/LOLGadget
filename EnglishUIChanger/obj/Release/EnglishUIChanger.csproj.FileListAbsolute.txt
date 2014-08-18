@@ -1,0 +1,9 @@
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\EnglishUIChanger.Form1.resources
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\EnglishUIChanger.csproj.GenerateResource.Cache
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\bin\Release\LOLGadget.exe.config
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\bin\Release\LOLGadget.exe
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\bin\Release\LOLGadget.pdb
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\LOLGadget.Properties.Resources.resources
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\LOLGadget.exe
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\LOLGadget.pdb
+C:\Users\JackWang\Documents\Visual Studio 2013\Projects\EnglishUIChanger\EnglishUIChanger\obj\Release\EnglishUIChanger.csprojResolveAssemblyReference.cache
